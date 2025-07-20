@@ -40,9 +40,9 @@ curl -O 'https://raw.githubusercontent.com/FenilGalani07/AnonySwitch/main/fenil_
 ```
 
 3. **Permissions**
-   ```shell
-   chmod +x fenil_ip-changer.sh
-   ```
+```shell
+chmod +x fenil_ip-changer.sh
+```
 
 4. **Usage**
    Run the script with root privileges:
