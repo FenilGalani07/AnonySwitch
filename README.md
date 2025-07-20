@@ -37,12 +37,15 @@ AnonySwitch is a lightweight, terminal-based tool built to help users rotate the
 
 ```shell
 curl -O 'https://raw.githubusercontent.com/FenilGalani07/AnonySwitch/main/fenil_ip-changer.sh'
-chmod +x fenil_ip-changer.sh
 ```
 
-3. **Usage**
+3. **Permissions**
+   ```shell
+   chmod +x fenil_ip-changer.sh
+   ```
 
-Run the script with root privileges:
+4. **Usage**
+   Run the script with root privileges:
 
 ```shell
 sudo ./fenil_ip-changer.sh
