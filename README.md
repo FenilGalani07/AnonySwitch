@@ -52,4 +52,4 @@ sudo ./fenil_ip-changer.sh
 ```
 
 # 🚨 Disclaimer
-This tool is intended for educational and privacy-protection purposes only. Misuse for illegal activities is strictly discouraged and the author assumes no responsibility.
+This tool is intended for educational and privacy-protection purposes only. Misuse for illegal activities is strictly discouraged and me as the author assumes no responsibility.
