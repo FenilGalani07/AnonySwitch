@@ -51,11 +51,5 @@ chmod +x fenil_ip-changer.sh
 sudo ./fenil_ip-changer.sh
 ```
 
-📚 About
-Tool: AnonySwitch
-Author: Fenil Galani
-University: Atmiya University
-GitHub: @FenilGalani07
-
-🚨 Disclaimer
+##🚨 Disclaimer
 This tool is intended for educational and privacy-protection purposes only. Misuse for illegal activities is strictly discouraged and the author assumes no responsibility.
